@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhotoViewer</string>
+    <string name="upload">Upload</string>
+    <string name="enter_opacity_value">Enter Opacity Value</string>
+    <string name="submit">submit</string>
+    <string name="it_takes_a_range_of_0_0_to_1_0">It takes a value from 0.0 to 1.0</string>
+    <string name="opacity_control">Opacity Control</string>
+    <string name="opacity">Opacity</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="over_draw">Over draw</string>
+</resources>
